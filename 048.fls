@@ -1,9 +1,9 @@
-PWD d:/����/meisaiyu
+PWD d:/tryonlatex
 INPUT d:/texlive/2020/texmf.cnf
 INPUT d:/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT d:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/美赛/meisaiyu/048.tex
-OUTPUT d:/美赛/meisaiyu/048.log
+INPUT d:/tryonlatex/048.tex
+OUTPUT d:/tryonlatex/048.log
 INPUT d:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT d:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT d:/texlive/2020/texmf-dist/tex/latex/base/article.cls
@@ -21,17 +21,17 @@ INPUT d:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
 INPUT d:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
 INPUT d:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT d:/美赛/meisaiyu/easymcm.sty
-INPUT d:/美赛/meisaiyu/easymcm.sty
-INPUT d:/美赛/meisaiyu/easymcm.sty
-INPUT d:/美赛/meisaiyu/easymcm.sty
-INPUT d:/美赛/meisaiyu/easymcm.sty
-INPUT d:/美赛/meisaiyu/easymcm.sty
-INPUT d:/美赛/meisaiyu/easymcm.sty
-INPUT d:/美赛/meisaiyu/easymcm.sty
-INPUT d:/美赛/meisaiyu/easymcm.sty
-INPUT d:/美赛/meisaiyu/easymcm.sty
-INPUT d:/美赛/meisaiyu/easymcm.sty
+INPUT d:/tryonlatex/easymcm.sty
+INPUT d:/tryonlatex/easymcm.sty
+INPUT d:/tryonlatex/easymcm.sty
+INPUT d:/tryonlatex/easymcm.sty
+INPUT d:/tryonlatex/easymcm.sty
+INPUT d:/tryonlatex/easymcm.sty
+INPUT d:/tryonlatex/easymcm.sty
+INPUT d:/tryonlatex/easymcm.sty
+INPUT d:/tryonlatex/easymcm.sty
+INPUT d:/tryonlatex/easymcm.sty
+INPUT d:/tryonlatex/easymcm.sty
 INPUT d:/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT d:/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT d:/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
@@ -913,10 +913,10 @@ INPUT d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT d:/美赛/meisaiyu/048.aux
-INPUT d:/美赛/meisaiyu/048.aux
-INPUT d:/美赛/meisaiyu/048.aux
-OUTPUT d:/美赛/meisaiyu/048.aux
+INPUT d:/tryonlatex/048.aux
+INPUT d:/tryonlatex/048.aux
+INPUT d:/tryonlatex/048.aux
+OUTPUT d:/tryonlatex/048.aux
 INPUT d:/texlive/2020/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT d:/texlive/2020/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT d:/texlive/2020/texmf-dist/tex/latex/caption/ltcaption.sty
@@ -971,18 +971,18 @@ INPUT d:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT d:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT d:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT d:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT d:/美赛/meisaiyu/048.out
-INPUT d:/美赛/meisaiyu/048.out
-INPUT d:/美赛/meisaiyu/048.out
-INPUT d:/美赛/meisaiyu/048.out
-INPUT d:/美赛/meisaiyu/048.out
-INPUT d:/美赛/meisaiyu/048.out
-INPUT d:/美赛/meisaiyu/048.out
-INPUT d:/美赛/meisaiyu/048.out
-OUTPUT d:/美赛/meisaiyu/048.pdf
-INPUT d:/美赛/meisaiyu/048.out
-INPUT d:/美赛/meisaiyu/048.out
-OUTPUT d:/美赛/meisaiyu/048.out
+INPUT d:/tryonlatex/048.out
+INPUT d:/tryonlatex/048.out
+INPUT d:/tryonlatex/048.out
+INPUT d:/tryonlatex/048.out
+INPUT d:/tryonlatex/048.out
+INPUT d:/tryonlatex/048.out
+INPUT d:/tryonlatex/048.out
+INPUT d:/tryonlatex/048.out
+OUTPUT d:/tryonlatex/048.pdf
+INPUT d:/tryonlatex/048.out
+INPUT d:/tryonlatex/048.out
+OUTPUT d:/tryonlatex/048.out
 INPUT d:/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 INPUT d:/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 INPUT d:/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
@@ -1054,11 +1054,11 @@ INPUT d:/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplri8t.vf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplrc8t.vf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
-INPUT d:/美赛/meisaiyu/048.toc
-INPUT d:/美赛/meisaiyu/048.toc
-INPUT d:/美赛/meisaiyu/048.toc
+INPUT d:/tryonlatex/048.toc
+INPUT d:/tryonlatex/048.toc
+INPUT d:/tryonlatex/048.toc
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplbc8t.tfm
-OUTPUT d:/美赛/meisaiyu/048.toc
+OUTPUT d:/tryonlatex/048.toc
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr8t.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplr8t.vf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
@@ -1075,17 +1075,17 @@ INPUT d:/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplb8t.vf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplr8c.vf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
-INPUT d:/美赛/meisaiyu/./img//workflow2.pdf
-INPUT d:/美赛/meisaiyu/./img//workflow2.pdf
-INPUT d:/美赛/meisaiyu/./img//workflow2.pdf
-INPUT d:/美赛/meisaiyu/./img//workflow2.pdf
-INPUT d:/美赛/meisaiyu/./img//workflow2.pdf
+INPUT d:/tryonlatex/./img//workflow2.pdf
+INPUT d:/tryonlatex/./img//workflow2.pdf
+INPUT d:/tryonlatex/./img//workflow2.pdf
+INPUT d:/tryonlatex/./img//workflow2.pdf
+INPUT d:/tryonlatex/./img//workflow2.pdf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplbc8t.tfm
-INPUT d:/美赛/meisaiyu/./img//Directed_Influencer_Network3 .pdf
-INPUT d:/美赛/meisaiyu/./img//Directed_Influencer_Network3 .pdf
-INPUT d:/美赛/meisaiyu/./img//Directed_Influencer_Network3 .pdf
-INPUT d:/美赛/meisaiyu/./img//Directed_Influencer_Network3 .pdf
-INPUT d:/美赛/meisaiyu/./img//Directed_Influencer_Network3 .pdf
+INPUT d:/tryonlatex/./img//Directed_Influencer_Network3 .pdf
+INPUT d:/tryonlatex/./img//Directed_Influencer_Network3 .pdf
+INPUT d:/tryonlatex/./img//Directed_Influencer_Network3 .pdf
+INPUT d:/tryonlatex/./img//Directed_Influencer_Network3 .pdf
+INPUT d:/tryonlatex/./img//Directed_Influencer_Network3 .pdf
 INPUT d:/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplbc8t.vf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr8t.tfm
@@ -1094,11 +1094,11 @@ INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr8t.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplri8t.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplri8t.vf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
-INPUT d:/美赛/meisaiyu/./img//Directed Influencer Network .pdf
-INPUT d:/美赛/meisaiyu/./img//Directed Influencer Network .pdf
-INPUT d:/美赛/meisaiyu/./img//Directed Influencer Network .pdf
-INPUT d:/美赛/meisaiyu/./img//Directed Influencer Network .pdf
-INPUT d:/美赛/meisaiyu/./img//Directed Influencer Network .pdf
+INPUT d:/tryonlatex/./img//Directed Influencer Network .pdf
+INPUT d:/tryonlatex/./img//Directed Influencer Network .pdf
+INPUT d:/tryonlatex/./img//Directed Influencer Network .pdf
+INPUT d:/tryonlatex/./img//Directed Influencer Network .pdf
+INPUT d:/tryonlatex/./img//Directed Influencer Network .pdf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr8t.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
@@ -1113,26 +1113,26 @@ INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplr8t.vf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
-INPUT d:/美赛/meisaiyu/./img//sim.pdf
-INPUT d:/美赛/meisaiyu/./img//sim.pdf
-INPUT d:/美赛/meisaiyu/./img//sim.pdf
-INPUT d:/美赛/meisaiyu/./img//sim.pdf
-INPUT d:/美赛/meisaiyu/./img//sim.pdf
-INPUT d:/美赛/meisaiyu/./img//simm.pdf
-INPUT d:/美赛/meisaiyu/./img//simm.pdf
-INPUT d:/美赛/meisaiyu/./img//simm.pdf
-INPUT d:/美赛/meisaiyu/./img//simm.pdf
-INPUT d:/美赛/meisaiyu/./img//simm.pdf
-INPUT d:/美赛/meisaiyu/./img//simin.jpg
-INPUT d:/美赛/meisaiyu/./img//simin.jpg
-INPUT d:/美赛/meisaiyu/./img//simin.jpg
-INPUT d:/美赛/meisaiyu/./img//simin.jpg
-INPUT d:/美赛/meisaiyu/./img//simin.jpg
-INPUT d:/美赛/meisaiyu/./img//ig.pdf
-INPUT d:/美赛/meisaiyu/./img//ig.pdf
-INPUT d:/美赛/meisaiyu/./img//ig.pdf
-INPUT d:/美赛/meisaiyu/./img//ig.pdf
-INPUT d:/美赛/meisaiyu/./img//ig.pdf
+INPUT d:/tryonlatex/./img//sim.pdf
+INPUT d:/tryonlatex/./img//sim.pdf
+INPUT d:/tryonlatex/./img//sim.pdf
+INPUT d:/tryonlatex/./img//sim.pdf
+INPUT d:/tryonlatex/./img//sim.pdf
+INPUT d:/tryonlatex/./img//simm.pdf
+INPUT d:/tryonlatex/./img//simm.pdf
+INPUT d:/tryonlatex/./img//simm.pdf
+INPUT d:/tryonlatex/./img//simm.pdf
+INPUT d:/tryonlatex/./img//simm.pdf
+INPUT d:/tryonlatex/./img//simin.jpg
+INPUT d:/tryonlatex/./img//simin.jpg
+INPUT d:/tryonlatex/./img//simin.jpg
+INPUT d:/tryonlatex/./img//simin.jpg
+INPUT d:/tryonlatex/./img//simin.jpg
+INPUT d:/tryonlatex/./img//ig.pdf
+INPUT d:/tryonlatex/./img//ig.pdf
+INPUT d:/tryonlatex/./img//ig.pdf
+INPUT d:/tryonlatex/./img//ig.pdf
+INPUT d:/tryonlatex/./img//ig.pdf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
@@ -1142,63 +1142,63 @@ INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
-INPUT d:/美赛/meisaiyu/./img//p1.pdf
-INPUT d:/美赛/meisaiyu/./img//p1.pdf
-INPUT d:/美赛/meisaiyu/./img//p1.pdf
-INPUT d:/美赛/meisaiyu/./img//p1.pdf
-INPUT d:/美赛/meisaiyu/./img//p1.pdf
-INPUT d:/美赛/meisaiyu/./img//p2 .pdf
-INPUT d:/美赛/meisaiyu/./img//p2 .pdf
-INPUT d:/美赛/meisaiyu/./img//p2 .pdf
-INPUT d:/美赛/meisaiyu/./img//p2 .pdf
-INPUT d:/美赛/meisaiyu/./img//p2 .pdf
-INPUT d:/美赛/meisaiyu/./img//box1.jpg
-INPUT d:/美赛/meisaiyu/./img//box1.jpg
-INPUT d:/美赛/meisaiyu/./img//box1.jpg
-INPUT d:/美赛/meisaiyu/./img//box1.jpg
-INPUT d:/美赛/meisaiyu/./img//box1.jpg
-INPUT d:/美赛/meisaiyu/./img//box2.jpg
-INPUT d:/美赛/meisaiyu/./img//box2.jpg
-INPUT d:/美赛/meisaiyu/./img//box2.jpg
-INPUT d:/美赛/meisaiyu/./img//box2.jpg
-INPUT d:/美赛/meisaiyu/./img//box2.jpg
+INPUT d:/tryonlatex/./img//p1.pdf
+INPUT d:/tryonlatex/./img//p1.pdf
+INPUT d:/tryonlatex/./img//p1.pdf
+INPUT d:/tryonlatex/./img//p1.pdf
+INPUT d:/tryonlatex/./img//p1.pdf
+INPUT d:/tryonlatex/./img//p2 .pdf
+INPUT d:/tryonlatex/./img//p2 .pdf
+INPUT d:/tryonlatex/./img//p2 .pdf
+INPUT d:/tryonlatex/./img//p2 .pdf
+INPUT d:/tryonlatex/./img//p2 .pdf
+INPUT d:/tryonlatex/./img//box1.jpg
+INPUT d:/tryonlatex/./img//box1.jpg
+INPUT d:/tryonlatex/./img//box1.jpg
+INPUT d:/tryonlatex/./img//box1.jpg
+INPUT d:/tryonlatex/./img//box1.jpg
+INPUT d:/tryonlatex/./img//box2.jpg
+INPUT d:/tryonlatex/./img//box2.jpg
+INPUT d:/tryonlatex/./img//box2.jpg
+INPUT d:/tryonlatex/./img//box2.jpg
+INPUT d:/tryonlatex/./img//box2.jpg
 INPUT d:/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplr8t.vf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
-INPUT d:/美赛/meisaiyu/./img//9.jpg
-INPUT d:/美赛/meisaiyu/./img//9.jpg
-INPUT d:/美赛/meisaiyu/./img//9.jpg
-INPUT d:/美赛/meisaiyu/./img//9.jpg
-INPUT d:/美赛/meisaiyu/./img//9.jpg
-INPUT d:/美赛/meisaiyu/./img//pRock.pdf
-INPUT d:/美赛/meisaiyu/./img//pRock.pdf
-INPUT d:/美赛/meisaiyu/./img//pRock.pdf
-INPUT d:/美赛/meisaiyu/./img//pRock.pdf
-INPUT d:/美赛/meisaiyu/./img//pRock.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi1.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi1.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi1.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi1.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi1.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi2.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi2.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi2.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi2.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi2.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi3.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi3.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi3.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi3.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi3.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi4.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi4.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi4.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi4.pdf
-INPUT d:/美赛/meisaiyu/./img//qushi4.pdf
-INPUT d:/美赛/meisaiyu/./img//elc.pdf
-INPUT d:/美赛/meisaiyu/./img//elc.pdf
-INPUT d:/美赛/meisaiyu/./img//elc.pdf
-INPUT d:/美赛/meisaiyu/./img//elc.pdf
-INPUT d:/美赛/meisaiyu/./img//elc.pdf
+INPUT d:/tryonlatex/./img//9.jpg
+INPUT d:/tryonlatex/./img//9.jpg
+INPUT d:/tryonlatex/./img//9.jpg
+INPUT d:/tryonlatex/./img//9.jpg
+INPUT d:/tryonlatex/./img//9.jpg
+INPUT d:/tryonlatex/./img//pRock.pdf
+INPUT d:/tryonlatex/./img//pRock.pdf
+INPUT d:/tryonlatex/./img//pRock.pdf
+INPUT d:/tryonlatex/./img//pRock.pdf
+INPUT d:/tryonlatex/./img//pRock.pdf
+INPUT d:/tryonlatex/./img//qushi1.pdf
+INPUT d:/tryonlatex/./img//qushi1.pdf
+INPUT d:/tryonlatex/./img//qushi1.pdf
+INPUT d:/tryonlatex/./img//qushi1.pdf
+INPUT d:/tryonlatex/./img//qushi1.pdf
+INPUT d:/tryonlatex/./img//qushi2.pdf
+INPUT d:/tryonlatex/./img//qushi2.pdf
+INPUT d:/tryonlatex/./img//qushi2.pdf
+INPUT d:/tryonlatex/./img//qushi2.pdf
+INPUT d:/tryonlatex/./img//qushi2.pdf
+INPUT d:/tryonlatex/./img//qushi3.pdf
+INPUT d:/tryonlatex/./img//qushi3.pdf
+INPUT d:/tryonlatex/./img//qushi3.pdf
+INPUT d:/tryonlatex/./img//qushi3.pdf
+INPUT d:/tryonlatex/./img//qushi3.pdf
+INPUT d:/tryonlatex/./img//qushi4.pdf
+INPUT d:/tryonlatex/./img//qushi4.pdf
+INPUT d:/tryonlatex/./img//qushi4.pdf
+INPUT d:/tryonlatex/./img//qushi4.pdf
+INPUT d:/tryonlatex/./img//qushi4.pdf
+INPUT d:/tryonlatex/./img//elc.pdf
+INPUT d:/tryonlatex/./img//elc.pdf
+INPUT d:/tryonlatex/./img//elc.pdf
+INPUT d:/tryonlatex/./img//elc.pdf
+INPUT d:/tryonlatex/./img//elc.pdf
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
@@ -1207,9 +1207,9 @@ INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT d:/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT d:/美赛/meisaiyu/048.aux
-INPUT d:/美赛/meisaiyu/048.out
-INPUT d:/美赛/meisaiyu/048.out
+INPUT d:/tryonlatex/048.aux
+INPUT d:/tryonlatex/048.out
+INPUT d:/tryonlatex/048.out
 INPUT d:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.13)  6 JAN 2022 21:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.13)  6 JAN 2022 22:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/美赛/meisaiyu/048.tex
-(d:/美赛/meisaiyu/048.tex
+**d:/tryonlatex/048.tex
+(d:/tryonlatex/048.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03> (d:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -22,7 +22,7 @@ File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (d:/美赛/meisaiyu/easymcm.sty
+) (d:/tryonlatex/easymcm.sty
 Package: easymcm 2019/01/21 EasyMCM v5.1
 
 EasyMCM Package, version 5.1
@@ -531,7 +531,7 @@ File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count321
 \l__pdf_internal_box=\box71
-) (d:/美赛/meisaiyu/048.aux)
+) (d:/tryonlatex/048.aux)
 \openout1 = `048.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -626,7 +626,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
- (d:/美赛/meisaiyu/048.out) (d:/美赛/meisaiyu/048.out)
+ (d:/tryonlatex/048.out) (d:/tryonlatex/048.out)
 \@outlinefile=\write4
 \openout4 = `048.out'.
 
@@ -657,7 +657,7 @@ Overfull \hbox (9.72452pt too wide) in paragraph at lines 72--73
 
 [1
 
-{d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (d:/美赛/meisaiyu/048.toc)
+{d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (d:/tryonlatex/048.toc)
 \tf@toc=\write5
 \openout5 = `048.toc'.
 
@@ -669,7 +669,7 @@ File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 
 ]
 
-pdfTeX warning: pdflatex.exe (file d:/美赛/meisaiyu/./img//workflow2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/tryonlatex/./img//workflow2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <./img//workflow2.pdf, id=209, 547.103pt x 307.61424pt>
 File: ./img//workflow2.pdf Graphic file (type pdf)
 <use ./img//workflow2.pdf>
@@ -680,15 +680,15 @@ Overfull \hbox (14.96698pt too wide) in paragraph at lines 225--226
 \T1/ppl/m/n/12 a com-plex net-work in-volv-ing $\OML/cmm/m/it/12 n \OT1/cmr/m/n/12 = 5603 \OML/cmm/m/it/12 nodes\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 artists\OT1/cmr/m/n/12 )$ \T1/ppl/m/n/12 and $\OML/cmm/m/it/12 m \OT1/cmr/m/n/12 = 42770 \OML/cmm/m/it/12 edges\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 influence\OT1/cmr/m/n/12 )$
  []
 
-[4 <d:/美赛/meisaiyu/./img//workflow2.pdf>]
+[4 <d:/tryonlatex/./img//workflow2.pdf>]
 
-pdfTeX warning: pdflatex.exe (file d:/美赛/meisaiyu/./img//Directed_Influencer_Network3 .pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file d:/tryonlatex/./img//Directed_Influencer_Network3 .pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <./img//Directed_Influencer_Network3 .pdf, id=235, 543.16322pt x 464.76736pt>
 File: ./img//Directed_Influencer_Network3 .pdf Graphic file (type pdf)
 <use ./img//Directed_Influencer_Network3 .pdf>
 Package pdftex.def Info: ./img//Directed_Influencer_Network3 .pdf  used on input line 229.
 (pdftex.def)             Requested size: 295.90588pt x 253.19745pt.
-[5 <d:/美赛/meisaiyu/./img//Directed_Influencer_Network3 .pdf>] [6]
+[5 <d:/tryonlatex/./img//Directed_Influencer_Network3 .pdf>] [6]
 <./img//Directed Influencer Network .pdf, id=265, 517.56564pt x 224.5188pt>
 File: ./img//Directed Influencer Network .pdf Graphic file (type pdf)
 <use ./img//Directed Influencer Network .pdf>
@@ -704,7 +704,7 @@ Overfull \hbox (0.75967pt too wide) in paragraph at lines 338--339
 []\T1/ppl/m/n/12 Generally, artist with higher mu-sic in-flu-ence has more fol-low-ers. How-ever, Howlin'
  []
 
-[7 <d:/美赛/meisaiyu/./img//Directed Influencer Network .pdf>] [8]
+[7 <d:/tryonlatex/./img//Directed Influencer Network .pdf>] [8]
 Overfull \hbox (8.36806pt too wide) in paragraph at lines 372--373
 []\T1/ppl/m/n/12 Comparing to other mea-sures like Ma-ha-lanobis dis-tance, this sim-ple mea-sure doesn't
  []
@@ -717,13 +717,13 @@ Package pdftex.def Info: ./img//sim.pdf  used on input line 402.
 (pdftex.def)             Requested size: 318.66948pt x 258.53194pt.
  [10
 
- <d:/美赛/meisaiyu/./img//sim.pdf>]
+ <d:/tryonlatex/./img//sim.pdf>]
 <./img//simm.pdf, id=331, 393.46498pt x 314.2711pt>
 File: ./img//simm.pdf Graphic file (type pdf)
 <use ./img//simm.pdf>
 Package pdftex.def Info: ./img//simm.pdf  used on input line 457.
 (pdftex.def)             Requested size: 364.19667pt x 290.912pt.
- [11 <d:/美赛/meisaiyu/./img//simm.pdf>]
+ [11 <d:/tryonlatex/./img//simm.pdf>]
 <./img//simin.jpg, id=347, 8030.0pt x 3989.90625pt>
 File: ./img//simin.jpg Graphic file (type jpg)
 <use ./img//simin.jpg>
@@ -734,7 +734,7 @@ Overfull \hbox (11.69212pt too wide) in paragraph at lines 473--474
 []\T1/ppl/m/n/12 The in-flu-ence_data dataset and the data_by_artist dataset were used to ver-ify whether
  []
 
-[12 <d:/美赛/meisaiyu/./img//simin.jpg>]
+[12 <d:/tryonlatex/./img//simin.jpg>]
 Overfull \hbox (35.75996pt too wide) in paragraph at lines 506--516
  [][] 
  []
@@ -744,7 +744,7 @@ File: ./img//ig.pdf Graphic file (type pdf)
 <use ./img//ig.pdf>
 Package pdftex.def Info: ./img//ig.pdf  used on input line 528.
 (pdftex.def)             Requested size: 409.71692pt x 283.9329pt.
-[13] [14 <d:/美赛/meisaiyu/./img//ig.pdf>]
+[13] [14 <d:/tryonlatex/./img//ig.pdf>]
 <./img//p1.pdf, id=377, 381.00644pt x 309.0466pt>
 File: ./img//p1.pdf Graphic file (type pdf)
 <use ./img//p1.pdf>
@@ -765,7 +765,7 @@ File: ./img//box2.jpg Graphic file (type jpg)
 <use ./img//box2.jpg>
 Package pdftex.def Info: ./img//box2.jpg  used on input line 641.
 (pdftex.def)             Requested size: 182.09486pt x 136.58783pt.
- [15 <d:/美赛/meisaiyu/./img//p1.pdf> <d:/美赛/meisaiyu/./img//p2 .pdf>] [16 <d:/美赛/meisaiyu/./img//box1.jpg> <d:/美赛/meisaiyu/./img//box2.jpg>] [17]
+ [15 <d:/tryonlatex/./img//p1.pdf> <d:/tryonlatex/./img//p2 .pdf>] [16 <d:/tryonlatex/./img//box1.jpg> <d:/tryonlatex/./img//box2.jpg>] [17]
 <./img//9.jpg, id=420, 12762.68124pt x 6466.1575pt>
 File: ./img//9.jpg Graphic file (type jpg)
 <use ./img//9.jpg>
@@ -783,9 +783,9 @@ Overfull \hbox (45.52718pt too wide) in paragraph at lines 695--696
 
 [18
 
- <d:/美赛/meisaiyu/./img//9.jpg> <d:/美赛/meisaiyu/./img//pRock.pdf
+ <d:/tryonlatex/./img//9.jpg> <d:/tryonlatex/./img//pRock.pdf
 
-pdfTeX warning: pdflatex.exe (file d:/美赛/meisaiyu/./img//pRock.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+pdfTeX warning: pdflatex.exe (file d:/tryonlatex/./img//pRock.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
 <./img//qushi1.pdf, id=441, 516.84291pt x 260.0144pt>
 File: ./img//qushi1.pdf Graphic file (type pdf)
@@ -807,41 +807,41 @@ File: ./img//qushi4.pdf Graphic file (type pdf)
 <use ./img//qushi4.pdf>
 Package pdftex.def Info: ./img//qushi4.pdf  used on input line 728.
 (pdftex.def)             Requested size: 182.09486pt x 93.0431pt.
- [19 <d:/美赛/meisaiyu/./img//qushi1.pdf> <d:/美赛/meisaiyu/./img//qushi2.pdf
+ [19 <d:/tryonlatex/./img//qushi1.pdf> <d:/tryonlatex/./img//qushi2.pdf
 
-pdfTeX warning: pdflatex.exe (file d:/美赛/meisaiyu/./img//qushi2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <d:/美赛/meisaiyu/./img//qushi3.pdf
+pdfTeX warning: pdflatex.exe (file d:/tryonlatex/./img//qushi2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <d:/tryonlatex/./img//qushi3.pdf
 
-pdfTeX warning: pdflatex.exe (file d:/美赛/meisaiyu/./img//qushi3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
-> <d:/美赛/meisaiyu/./img//qushi4.pdf
+pdfTeX warning: pdflatex.exe (file d:/tryonlatex/./img//qushi3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <d:/tryonlatex/./img//qushi4.pdf
 
-pdfTeX warning: pdflatex.exe (file d:/美赛/meisaiyu/./img//qushi4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file d:/tryonlatex/./img//qushi4.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 <./img//elc.pdf, id=541, 541.18489pt x 265.24194pt>
 File: ./img//elc.pdf Graphic file (type pdf)
 <use ./img//elc.pdf>
 Package pdftex.def Info: ./img//elc.pdf  used on input line 766.
 (pdftex.def)             Requested size: 455.24411pt x 223.12953pt.
- [20 <d:/美赛/meisaiyu/./img//elc.pdf>] [21] [22
+ [20 <d:/tryonlatex/./img//elc.pdf>] [21] [22
 
 ] 
 AED: lastpage setting LastPage
 [23
 
-] (d:/美赛/meisaiyu/048.aux)
+] (d:/tryonlatex/048.aux)
 Package rerunfilecheck Info: File `048.out' has not changed.
 (rerunfilecheck)             Checksum: B50F2FBEDDAB9211C5F7D54BDB44AC37;2511.
  ) 
 Here is how much of TeX's memory you used:
  13905 strings out of 481199
- 206842 string characters out of 5914507
+ 206757 string characters out of 5914507
  709739 words of memory out of 5000000
  30407 multiletter control sequences out of 15000+600000
  442373 words of font info for 109 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 86i,12n,88p,737b,456s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 86i,12n,88p,732b,456s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><d:/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><d:/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on d:/美赛/meisaiyu/048.pdf (23 pages, 4712333 bytes).
+Output written on d:/tryonlatex/048.pdf (23 pages, 4712013 bytes).
 PDF statistics:
  680 PDF objects out of 1000 (max. 8388607)
  555 compressed objects within 6 object streams
