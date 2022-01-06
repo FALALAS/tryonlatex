@@ -1,0 +1,31 @@
+musicdata=readtable('H:\我的云端硬盘\2021_ICM_Problem_D_Data\data_by_artist.csv');
+Simin=[];
+Simout=[];
+for i=1:5854
+    if(string(musicdata.kind(i))=='Unknown')
+        Simin(i)=nan;
+        Simout(i)=nan;
+        continue;
+    end
+    c=0;
+    d=0;
+    t1=0;
+    t2=0;
+    for j=1:5854
+        if(string(musicdata.kind(j))=='Unknown'||i==j)
+            continue;
+        end
+        if(i==67)
+            i
+        end
+        if(strcmp(string(musicdata.kind(i)),string(musicdata.kind(j))))
+            t1=t1+Sim(i,j);
+            c=c+1;
+        else
+            d=d+1;
+            t2=t2+Sim(i,j);
+        end
+    end
+    Simin(i)=t1/c;
+    Simout(i)=t2/d;
+end

@@ -1,0 +1,15 @@
+x=readtable("H:\我的云端硬盘\2021_ICM_Problem_D_Data\data_by_year.csv");
+h=scatter(x.year,x.acousticness);
+hold on;
+m=polyfit(x.year(1:31),x.acousticness(1:31),1);
+n=polyval(m,[1921 1951]);
+l1=plot([1921 1951],n);
+m=polyfit(x.year(31:58),x.acousticness(31:58),1);
+n=polyval(m,[1951 1978]);
+l2=plot([1951 1978],n);
+m=polyfit(x.year(58:87),x.acousticness(58:87),1);
+n=polyval(m,[1978 2007]);
+l3=plot([1978 2007],n);
+m=polyfit(x.year(87:end),x.acousticness(87:end),1);
+n=polyval(m,[2007 2020]);
+l4=plot([2007 2020],n);

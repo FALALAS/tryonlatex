@@ -1,0 +1,13 @@
+musicdata=readtable('H:\我的云端硬盘\2021_ICM_Problem_D_Data\data_by_artist.csv');
+temp=[musicdata.danceability(1:end) musicdata.energy(1:end) musicdata.valence(1:end) musicdata.tempo(1:end) musicdata.loudness(1:end) musicdata.mode(1:end) musicdata.key(1:end) musicdata.acousticness(1:end) musicdata.instrumentalness(1:end) musicdata.liveness(1:end) musicdata.speechiness(1:end)];
+temp=zscore(temp);
+r=corrcoef(temp);
+[~,~,latent,tsquare]=pca(temp);
+explained = 100*latent/sum(latent);
+[m, n] = size(temp);
+result1 = cell(n+1, 4);
+result1(1,:) = {'特征值', '差值', '贡献率', '累积贡献率'};
+result1(2:end,1) = num2cell(latent);
+result1(2:end-1,2) = num2cell(-diff(latent));
+result1(2:end,3:4) = num2cell([explained, cumsum(explained)])
+varname = [];

@@ -1,0 +1,35 @@
+\BOOKMARK [1][-]{section.0.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.0.1.1}{Problem Background}{section.0.1}% 2
+\BOOKMARK [2][-]{subsection.0.1.2}{Our work}{section.0.1}% 3
+\BOOKMARK [1][-]{section.0.2}{Preparation of the Models}{}% 4
+\BOOKMARK [2][-]{subsection.0.2.1}{Assumptions and Justifications}{section.0.2}% 5
+\BOOKMARK [2][-]{subsection.0.2.2}{Notations}{section.0.2}% 6
+\BOOKMARK [1][-]{section.0.3}{Task 1: Influencer Network Model}{}% 7
+\BOOKMARK [2][-]{subsection.0.3.1}{Directed Influencer Network}{section.0.3}% 8
+\BOOKMARK [2][-]{subsection.0.3.2}{Music Influence Measure}{section.0.3}% 9
+\BOOKMARK [2][-]{subsection.0.3.3}{Solutions}{section.0.3}% 10
+\BOOKMARK [1][-]{section.0.4}{Task 2: \040Model of Disatance between music works}{}% 11
+\BOOKMARK [2][-]{subsection.0.4.1}{Data Preprocessing}{section.0.4}% 12
+\BOOKMARK [2][-]{subsection.0.4.2}{Similarity Measure and Test}{section.0.4}% 13
+\BOOKMARK [2][-]{subsection.0.4.3}{Solutions}{section.0.4}% 14
+\BOOKMARK [1][-]{section.0.5}{Task 3: Build Genre Classification Tree}{}% 15
+\BOOKMARK [2][-]{subsection.0.5.1}{Genre Similarity and Influence}{section.0.5}% 16
+\BOOKMARK [2][-]{subsection.0.5.2}{Genre Classification Tree}{section.0.5}% 17
+\BOOKMARK [2][-]{subsection.0.5.3}{Solutions}{section.0.5}% 18
+\BOOKMARK [1][-]{section.0.6}{Task 4: Model of "contagious" musician}{}% 19
+\BOOKMARK [1][-]{section.0.7}{Task 5: Model of Music Revolution}{}% 20
+\BOOKMARK [2][-]{subsection.0.7.1}{Definition of Revolution}{section.0.7}% 21
+\BOOKMARK [2][-]{subsection.0.7.2}{Change Points Detection \(DP Algorithm\)}{section.0.7}% 22
+\BOOKMARK [2][-]{subsection.0.7.3}{Solutions}{section.0.7}% 23
+\BOOKMARK [1][-]{section.0.8}{Task 6: Model of Dynamic Influencer}{}% 24
+\BOOKMARK [2][-]{subsection.0.8.1}{Dynamic Influencer Indicator}{section.0.8}% 25
+\BOOKMARK [2][-]{subsection.0.8.2}{Solutions}{section.0.8}% 26
+\BOOKMARK [1][-]{section.0.9}{Task 7: The influence of external aspects}{}% 27
+\BOOKMARK [2][-]{subsection.0.9.1}{Cultural Influence of music}{section.0.9}% 28
+\BOOKMARK [2][-]{subsection.0.9.2}{Changes identified within the network}{section.0.9}% 29
+\BOOKMARK [1][-]{section.0.10}{Analysis on Model's Sensitivity}{}% 30
+\BOOKMARK [1][-]{section.0.11}{Strengths and Weaknesses}{}% 31
+\BOOKMARK [2][-]{subsection.0.11.1}{Strengths}{section.0.11}% 32
+\BOOKMARK [2][-]{subsection.0.11.2}{Weaknesses}{section.0.11}% 33
+\BOOKMARK [1][-]{section.0.12}{A Document to ICM Society}{}% 34
+\BOOKMARK [1][-]{section.0.13}{References}{}% 35
